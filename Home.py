@@ -89,20 +89,20 @@ if authentication_status == True:
 
         st.subheader('Source Code')
         st.write("Unleash your creativity and collaboration by clicking the link below! Our open-source ethos invites you to explore, contribute, and innovate with the source code on GitHub. Join the revolution in customer retention strategies and pave the way for a brighter tomorrow.")
-        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/Elphoxa/Customer-Churn-Prediction-App)")
+        st.markdown("[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=GitHub)](https://github.com/speedcode-x/Customer-Churn-Prediction-App.git)")
 
         st.subheader('Social Handles')
         st.write("""
         Connect with me on social media:
-        - [GitHub](https://github.com/Elphoxa) 🐙
-        - [LinkedIn](https://www.linkedin.com/in/efosa-omosigho) 💼
+        - [GitHub](https://github.com/speedcode-x) 🐙
+        - [LinkedIn] 💼
         """)
     
     # Add logout button to sidebar
     authenticator.logout("Logout", "sidebar")
 
     # Display sidebar with user's name
-    st.sidebar.title(f"Welcome {name}")
+    st.sidebar.title(f"Welcome ")
 
     if __name__ == '__main__':
         main()
