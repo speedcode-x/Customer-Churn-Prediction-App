@@ -11,11 +11,11 @@ Welcome to the Customer Churn Prediction App! This application is designed to he
 
 ## Introduction
 
-Customer churn refers to the phenomenon where customers stop doing business with a company. It's crucial for businesses to identify potential churners early and take appropriate actions to retain them. This application leverages machine learning algorithms to predict which customers are likely to churn based on historical data.
+Customer churn refers to the phenomenon where customers stop doing business with a company. Businesses must identify potential churners early and take appropriate actions to retain them. This application leverages machine learning algorithms to predict which customers are likely to churn based on historical data.
 
 ## Usage
 
-Once you have installed the application, follow these steps to use it:
+
 
 1. **Access the Application:** Open your web browser and navigate to https://customer-churn-prediction-app-8f1j.onrender.com.
 
