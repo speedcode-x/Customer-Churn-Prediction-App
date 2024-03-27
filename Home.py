@@ -93,10 +93,10 @@ if authentication_status == True:
 
         st.subheader('Social Handles')
         st.write("""
-        Connect with me on social media:
-        - [GitHub](https://github.com/speedcode-x) 🐙
-        - [LinkedIn] 💼
-        """)
+       Connect with me on social media:
+- [GitHub](https://github.com/speedcode-x) 🐙
+- [LinkedIn](https://www.linkedin.com/in/philip-kwaning) 💼
+""")
     
     # Add logout button to sidebar
     authenticator.logout("Logout", "sidebar")

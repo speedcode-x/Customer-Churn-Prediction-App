@@ -1,2 +1,5 @@
 /Virtual_environment
 /.streamlit
+/secrets.toml
+/run.py
+/d.py
